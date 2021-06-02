@@ -1,3 +1,8 @@
+# Employee Management Application [CRUD]
+
+This project has a login page (with userid and password fields) which authenticates the user using database in MySQL.User can view, create, add, delete or update the data after the authentication.
+**[NodeJs,React,MySQL]**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
