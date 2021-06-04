@@ -3,6 +3,49 @@
 This project has a login page (with userid and password fields) which authenticates the user using database in MySQL.User can view, create, add, delete or update the data after the authentication.
 **[NodeJs,React,MySQL]**
 
+## Project's ScreenShots
+
+### `The login Page`
+![image](https://user-images.githubusercontent.com/63467994/120751716-1f549c80-c526-11eb-9b89-23eb5bd8154f.png)
+
+**Here, user can perform two actions**
+
+**1. Add a user**: user can enter new credentials and add a new employee into the system.
+
+![image](https://user-images.githubusercontent.com/63467994/120752082-af92e180-c526-11eb-925d-5b3e4472fa25.png)
+
+**2. Login**
+: If entered credentials are valid
+
+![image](https://user-images.githubusercontent.com/63467994/120752325-216b2b00-c527-11eb-9f0d-ad16e25932ce.png)
+
+: If entered credentials are invalid or null
+
+![image](https://user-images.githubusercontent.com/63467994/120752359-2def8380-c527-11eb-94c2-9c970b8c3a14.png)
+
+### `Employee Data`
+
+This page displays details of all the employees in the database.
+
+![image](https://user-images.githubusercontent.com/63467994/120754644-968c2f80-c52a-11eb-8c5a-424fbcc372ee.png)
+
+Here, User can ***Delete or Update*** the data of employees
+
+~`Delete` : Clicking this button deletes the record of the respective employee.
+
+~`Retrieve Data` : Clicking this button fills the form underneath the Employee Data, which can be edited to update the data.
+
+~`Update Data` : Clicking this button will update the record of employees with the updated data.
+
+~`Refresh Data` : Clicking this button will refresh the record of employees.
+
+~`Go Back` : Clicking this button will redirect the user to login form.
+
+
+*** *********************************************************************************************************************************************************************** ***
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,32 +87,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
