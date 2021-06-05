@@ -25,7 +25,7 @@ This project has a login page (with userid and password fields) which authentica
 
 ### `Employee Data`
 
-This page displays details of all the employees in the database.
+This page displays details of all the employees in the database after user's credentials have been verified.
 
 ![image](https://user-images.githubusercontent.com/63467994/120754644-968c2f80-c52a-11eb-8c5a-424fbcc372ee.png)
 
